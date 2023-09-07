@@ -23,21 +23,21 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 [ ] проходить сюжет, 
 
-[X] отстроить ресторан и добывать ресурсы
+[X] улучшить ресторан и добывать ресурсы
 
 [X] персонажи
 
 [ ] анимации
 
-[X] плагины  
+[X] плагины  (ink)
 
 [ ] визуал
 Локации:
 
   [X] лес
-  
+
   [X] пещера
-  
+
   [ ] город
   
   [ ] ферма
@@ -45,4 +45,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
   [ ] тайная деревня
   
   [X] ресторан
-  
+
+
+
+
