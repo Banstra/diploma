@@ -1,1 +1,1 @@
-https://github.com/igoefi/StarSolar.git
+https://github.com/Banstra/StarSolar1.git
