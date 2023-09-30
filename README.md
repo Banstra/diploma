@@ -46,6 +46,9 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
   
   [X] ресторан
 
+Код: 
+[] добавить описание нейронки
+
 Октябрь - Декабрь:
 [] сайт
 [] сервер
