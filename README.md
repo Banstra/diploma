@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 4. C#
 5. Unity/Яндекс
 6. Приключение,
-   
+   игра:
 [X] персонаж попал в новый мир и нашел заброшенное здание,
 
 [X] которое было переделано в ресторан. 
@@ -21,7 +21,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 [X] знакомится с персонажами, 
 
-[ ] проходить сюжет, 
+[ ] проходить сюжет (разные концовки и отношения с персонажами), 
 
 [X] улучшить ресторан и добывать ресурсы
 
@@ -38,7 +38,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
   [X] пещера
 
-  [ ] город
+  [X] город
   
   [ ] ферма
   
