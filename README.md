@@ -27,7 +27,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 [X] персонажи
 
-[ ] анимации
+[ ] визуальная составляющая
 
 [X] плагины  (ink)
 
@@ -46,6 +46,10 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
   
   [X] ресторан
 
+Октябрь - Декабрь:
+[] сайт
+[] сервер
+[] лаунчер
 
 
 
