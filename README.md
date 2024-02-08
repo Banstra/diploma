@@ -1,6 +1,6 @@
 # diploma
 
-https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/edit
+[https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/edit](https://drive.google.com/drive/folders/15-6xzoR0KWXahKK5CEH1XOOGp7h9LNS7?usp=sharing)
 
 ![image](https://github.com/Banstra/diploma/assets/97594123/61fd4a77-eae3-450d-b923-e366281a3e96)
 
